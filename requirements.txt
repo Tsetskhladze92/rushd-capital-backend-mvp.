@@ -37,7 +37,6 @@ ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 Markdown==3.9
 matplotlib-inline==0.1.7
-mysqlclient==2.2.7
 numpy==2.2.3
 numpypy==1.17.2
 packaging==25.0
