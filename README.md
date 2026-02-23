@@ -22,3 +22,6 @@ This is a professional Backend MVP developed with **FastAPI** for a Robo-advisor
 1. Clone the repo: `git clone http://github.com/Tsetskhladze92/rushd-capital-backend-mvp.git`
 2. Install dependencies `pip install -r requirements.txt`
 3. Run the server: `uvicorn app.main:app --reload`
+
+## Live Demo
+The API is deployed and accessible at: [https://rushd-capital-backend-mvp-1.onrender.com/docs] 
